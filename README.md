@@ -6,7 +6,7 @@ A NLP Project that focuses on Text classification/Sentiment analysis of online h
 
 A simple web app that allows users to input their comments in such a way when the user clicks on 'Post'/'Submit' on the application, the ML model in combination with NLP techniques will analyze the text sentiment during the submission process. Once the text has been analyzed, the web app will let them know if their comment has hateful content or not. If yes, it will not let the user to post the comment stating it contains hate/offensive content and asks the user to rephrase the comment in the form of constructive criticism/feedback. If the comment does not contain any hate/offensive content analyzed by the models, the comment will be submitted. You can find more information about this project described [here](https://docs.google.com/document/d/19NOUl-Yfme7xUDNdTHEnxkYWseqdcHZU_yplW8IvMS4/edit).
 
-This is a small application feature that is deployed as a complete web app. 
+This is a small application feature that will be deployed as a complete web app. 
 
 ## Contributors
 
